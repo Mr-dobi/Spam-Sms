@@ -1,3 +1,1 @@
 # Spam-Sms
-
-Kicor
